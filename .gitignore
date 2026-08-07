@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Environment secrets
+.env
+
+# VS Code workspace settings
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# Optional runtime files
+coverage/
+*.log
